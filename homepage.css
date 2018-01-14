@@ -1,4 +1,5 @@
 body {
+  font-family: "Book Antiqua";
   background-color: hsl(17 ,26% ,84%);
   margin: 0 0;
   padding: 0;
@@ -8,7 +9,6 @@ body {
 .title_block {
   display: block;
   text-align: center;
-  font-family: "Book Antiqua";
   padding-bottom: 40px;
   border-bottom: 3px dotted black;
   height: 240px;
@@ -121,7 +121,6 @@ body {
 }
 
 .content h2 {
-  font-family: "Book Antiqua";
   font-size: 40px;
   text-align: center;
   display: block;
@@ -140,7 +139,6 @@ body {
 
 .article h3 {
   font-size: 30px;
-  font-family: "Book Antiqua";
   color: white;
   text-align: center;
 }
