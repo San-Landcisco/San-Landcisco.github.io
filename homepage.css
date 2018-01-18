@@ -6,6 +6,10 @@ body {
   border: 0;
 }
 
+a {
+  text-decoration: none;
+}
+
 .title_block {
   display: block;
   text-align: center;
